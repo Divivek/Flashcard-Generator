@@ -1,0 +1,20 @@
+[ { "input": "Cloze Card",
+	"cloze":"George Washington",
+"phrase": "George Washington was the first president of the United States."
+},
+
+{ "input": "Cloze Card",
+	"cloze" :"Thomas Jefferson"  ,
+  "phrase":"Thomas Jefferson was the third president of the United States."
+},
+
+
+{ "input": "Cloze Card",
+	"cloze" :"Abraham Lincoln"  ,
+  "phrase":"Abraham Lincoln was the sixteenth president of the United States."
+},
+
+{ "input": "Cloze Card",
+	"cloze" : "Woodrow Wilson" ,
+  "phrase":"Woodrow Wilson was the twentyeight's president of the United States"
+}]

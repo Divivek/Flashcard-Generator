@@ -1,16 +1,36 @@
-[{"front": "q1",
-	"back":"a1"
-	
-	},
+[
+{"input": "Basic Card",
+	"front":"The Colosseum is located?",
+	"back":"Rome"
+ },
 
-	{
-	"front":"q2",
-	"back":"a2"
-	},
+ {"input":"Basic Card",
+ 	"front":"The Mausoleum of Halicarnassus was built as a?",
+	"back":"Tomb"
+ },
 
-	{
-	"front":"q3",
-	"back":"a3"
-}];
+ {"input":"Basic Card",
+ 	"front":"What civilization built the Chichen Itza?",
+	"back":"Mayans"
+ },
 
+ {"input":"Basic Card",
+ 	"front":"What is the oldest structure on the ancient list of the seven wonders?",
+	"back": "The Great Pyramids of Giza"
+ },
 
+ {"input":"Basic Card",
+ 	"front":"The Taj Mahal was built by a Mughal Emperor to honor his late?",
+	"back":"Wife"
+ },
+
+ {"input":"Basic Card",
+ 	"front":"Which wonder was discovered by a Swiss explorer in 1812?",
+	"back":"Petra"
+ },
+
+ {"input":"Basic Card",
+ 	"front":"What was the statue of Zeus at Olympia made out of?",
+	"back":"Gold"
+ }
+]
