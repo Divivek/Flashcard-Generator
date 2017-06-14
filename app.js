@@ -12,7 +12,7 @@ chooseCard();
 function chooseCard() {
  	inquirer.prompt([{
         type: "input",
-        message: "What type of flashcard do you want to create?",
+        message: "What type of flashcard do you want to play? BasicCard/ClozeCard--Choose one!",
         choices: ["Basic Card" , "Cloze Card"],
         name: "cardType"
         }]).then(function (appData) {

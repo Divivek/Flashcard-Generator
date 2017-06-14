@@ -71,7 +71,8 @@ function promptUser(clozeCardCurrentScore,CurrentClozeCardIndex,clozecardArray) 
 			clozeCardCurrentScore++;
 			console.log("you answer is correct");
 		} else{
-			console.log("sorry you are wrong! currentanswer is" + clozecardArray[CurrentClozeCardIndex].cloze);
+			console.log("sorry you are wrong! correct answer is" + clozecardArray[CurrentClozeCardIndex].cloze);
+
 
 		}
 			clozeCardCurrentScore++;

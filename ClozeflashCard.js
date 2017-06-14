@@ -14,6 +14,7 @@ function clozeCard(text,cloze){
 	type:cloze
 }
 
+
 fs.appendFile("log.text", JSON.stringify(data)+ ';' +'utf8', function(error) {
  	if (error){
  	   console.log(error);
